@@ -3,7 +3,7 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 I'm a frontend developer who loves building responsive, user-focused web apps with clean code and modern tools.  
 I enjoy crafting beautiful UIs with performance in mind, and I'm always exploring new technologies to stay ahead.
