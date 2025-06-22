@@ -1,43 +1,58 @@
-<h1 align="center">Hi 👋, I'm Shafiq Farookhi</h1>
-<h3 align="center">Frontend Developer | React Enthusiast | UI/UX Focused</h3>
+<h1 align="center">Hi there 👋, I'm Shafiq Farookhi</h1>
+<h3 align="center">Frontend Developer | React & Next.js Enthusiast | Passionate about UI/UX & Performance</h3>
+
+---
+
+### 👨‍💻 About Me
+
+I'm a frontend developer who loves building responsive, user-focused web apps with clean code and modern tools.  
+I enjoy crafting beautiful UIs with performance in mind, and I'm always exploring new technologies to stay ahead.
+
+- 💼 Currently working as a frontend developer
+- 🧠 Learning and improving every day — especially in advanced React patterns and design systems
+- 🤝 Open to collaborating on frontend projects and UI/UX work
+
+---
+
+### 🛠️ Tech Stack
 
 <p align="center">
-  🚀 Passionate about building responsive, high-performance web apps that deliver great user experiences.<br>
-  🎯 Always learning, always improving — especially in React, Next.js, and modern frontend tools.
+  <!-- HTML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  &nbsp;
+  <!-- CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  &nbsp;
+  <!-- Tailwind CSS (colored) -->
+  <img src="https://img.icons8.com/color/48/tailwind_css.png" height="40" alt="Tailwind CSS" />
+  &nbsp;
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  &nbsp;
+  <!-- TypeScript -->
+  <img src="https://img.icons8.com/color/48/typescript.png" height="40" alt="TypeScript" />
+  &nbsp;
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  &nbsp;
+  <!-- Next.js (white icon for dark mode) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="40" alt="Next.js" />
+  &nbsp;
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  &nbsp;
+  <!-- GitHub (white for dark theme) -->
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" height="40" alt="GitHub" />
 </p>
+
 
 ---
 
-### 🛠 Tech Stack
+### 📫 Connect With Me
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shafiqfarookhi&show_icons=true&theme=default" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafiqfarookhi&layout=compact&theme=default" width="47%" />
-</p>
-
----
-
-### 🌐 Connect with Me
-
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/shafiqfarookhi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
