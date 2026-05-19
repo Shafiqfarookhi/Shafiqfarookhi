@@ -4,7 +4,7 @@
 
 ### 🎨 Frontend Developer · UI/UX Enthusiast · Pixel Perfectionist
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Building+beautiful+UIs+%F0%9F%9A%80;Crafting+pixel-perfect+experiences+%F0%9F%8E%A8;Always+learning%2C+always+growing+%F0%9F%8C%B1;Open+to+work+%26+freelance+%F0%9F%92%BC" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Building+beautiful+UIs+%F0%9F%9A%80;Crafting+pixel-perfect+experiences+%F0%9F%8E%A8;Always+learning%2C+always+growing+%F0%9F%8C%B1;Open+to+work+%26+freelance+%F0%9F%92%BC" alt="Typing SVG" />
 
 ---
 
@@ -16,38 +16,13 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
 
-## 🛠️ Tech Stack
-
 <div align="center">
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=html" width="48" title="HTML5" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=css" width="48" title="CSS3" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=js" width="48" title="JavaScript" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" width="48" title="TypeScript" />
-</p>
+## 🛠️ Tech Stack
 
-### Frameworks & Styling
-<p>
-  <img src="https://skillicons.dev/icons?i=react" width="48" title="React" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" width="48" title="Next.js" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" width="48" title="Tailwind CSS" />
-</p>
-
-### Tools & Design
-<p>
-  <img src="https://skillicons.dev/icons?i=git" width="48" title="Git" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="48" title="GitHub" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=figma" width="48" title="Figma" />
-</p>
+<img 
+  src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,figma" 
+/>
 
 </div>
 
@@ -64,7 +39,6 @@ const shafiq = {
   passions: ["Clean UI", "Smooth UX", "Great DX"],
   currentlyLearning: "Software Engineering fundamentals 📚",
   openTo: ["Freelance Projects", "Full-time Roles", "Collaborations"],
-  funFact: "I believe good design is invisible — and great code should be too ✨"
 };
 ```
 
@@ -80,18 +54,12 @@ const shafiq = {
 
 ## 🤝 Let's Connect!
 
-<p>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<p align="center">
+  <a href="shahramfarokhi421@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://www.linkedin.com/in/shafiq-farookhi-a22500343/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
   </a>
 </p>
-
-
-
 </div>
