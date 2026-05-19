@@ -47,8 +47,6 @@
   <img src="https://skillicons.dev/icons?i=github" width="48" title="GitHub" />
   &nbsp;
   <img src="https://skillicons.dev/icons?i=figma" width="48" title="Figma" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" width="48" title="VS Code" />
 </p>
 
 </div>
@@ -94,10 +92,6 @@ const shafiq = {
   </a>
 </p>
 
----
 
-<img src="https://komarev.com/ghpvc/?username=Shahram&style=flat-square&color=6366f1" alt="Profile views" />
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
 
 </div>
