@@ -55,9 +55,6 @@ const shafiq = {
 ## 🤝 Let's Connect!
 
 <p align="center">
-  <a href="shahramfarokhi421@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50" />
-  </a>
   <a href="https://www.linkedin.com/in/shafiq-farookhi-a22500343/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
   </a>
