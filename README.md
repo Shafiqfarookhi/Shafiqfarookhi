@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey there, I'm Shahram!
+# 👋 Hey there, I'm Shafiq Farookhi!
 
 ### 🎨 Frontend Developer · UI/UX Enthusiast · Pixel Perfectionist
 
@@ -34,8 +34,8 @@
 ## 🚀 About Me
 
 ```javascript
-const shahram = {
-  role: "Junior Frontend Developer",
+const shafiq = {
+  role: "Frontend Developer",
   location: "🌐 Available Worldwide (Remote)",
   passions: ["Clean UI", "Smooth UX", "Great DX"],
   currentlyLearning: "Software Engineering fundamentals 📚",
@@ -52,18 +52,7 @@ const shahram = {
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shahram&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahram&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahram&theme=tokyonight&hide_border=true&border_radius=10" />
-</p>
-
----
 
 ## 🤝 Let's Connect!
 
