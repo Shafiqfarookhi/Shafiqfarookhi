@@ -14,22 +14,48 @@
 
 ---
 
-## 🧰 My Tech Toolbox
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
 
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI%2FUX-FF69B4?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html" width="48" title="HTML5" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="48" title="CSS3" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="48" title="JavaScript" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" width="48" title="TypeScript" />
 </p>
 
+### Frameworks & Styling
+<p>
+  <img src="https://skillicons.dev/icons?i=react" width="48" title="React" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48" title="Next.js" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" title="Tailwind CSS" />
+</p>
+
+### Tools & Design
+<p>
+  <img src="https://skillicons.dev/icons?i=git" width="48" title="Git" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="48" title="GitHub" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" width="48" title="Figma" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" title="VS Code" />
+</p>
+
+</div>
+
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
 
 ## 🚀 About Me
 
